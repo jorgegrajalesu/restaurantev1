@@ -8,3 +8,11 @@
     width: 200px;
     height: 150px;
 }
+
+.menu{
+    background-color: #000000 !important; 
+}
+
+.alto{
+    height: 500px;
+}
