@@ -1,0 +1,10 @@
+/* constantes de diseño */
+:root{
+    --colorfooter:#000;
+    --fuente:'Roboto', sans-serif;
+}
+
+.logo{
+    width: 200px;
+    height: 150px;
+}
