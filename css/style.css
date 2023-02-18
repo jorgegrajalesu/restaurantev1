@@ -44,3 +44,47 @@ body{
     color: #fff;
     
 }
+
+/* contacto */
+section{
+    width: 100%;
+    background-color: #000000 !important;
+}
+
+#contacto{
+    width: 100%;
+    text-align: center;  
+
+}
+
+#contacto input,textarea{
+    width: 600px;
+    font-size: 18px;
+    border-radius: 5px;
+    
+}
+
+#contacto .tituloC{
+    color: #fff;
+}
+
+/* section h2{
+    padding-top: 130px;
+} */
+
+/* optimizar los titulos en espaciado */
+#carta,
+#servicios,
+section, h2{    
+    padding: 95px;
+}
+
+/* footer */
+footer{
+    width: 100%;
+    background-color: #ffffff;
+    text-align: center;
+    color: #000000;
+    padding: 20px 0;
+    
+}
