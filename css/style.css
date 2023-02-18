@@ -4,6 +4,10 @@
     --fuente:'Roboto', sans-serif;
 }
 
+body{
+     overflow-x:hidden;/*oculta la barra de desplazamiento horizontal*/
+}
+
 .logo{
     width: 200px;
     height: 150px;
@@ -15,4 +19,10 @@
 
 .alto{
     height: 500px;
+}
+
+/* images para la carta */
+.card-img-top{
+    width: 100%;
+    height: 300px;
 }
