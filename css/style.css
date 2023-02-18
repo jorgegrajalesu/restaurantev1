@@ -26,3 +26,21 @@ body{
     width: 100%;
     height: 300px;
 }
+
+#carta .titulo{
+    width: 100%;
+    text-align: center;
+
+}
+
+/* servicios */
+#servicios{
+    background-color: #052554;
+}
+
+#servicios .tituloSer{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    
+}
